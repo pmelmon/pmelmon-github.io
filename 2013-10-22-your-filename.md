@@ -1,4 +1,4 @@
-##  A quantitative approach to hiring a VPE
+##  5 Must ask questions for any potential VPE
 
 Ok, here is a subject I am passionate about, having gone thru the interview process from both sides of the table multiple times.  You have just plunked down between 80 and 120K to do a retained search for your next (or first) VP of Engineering.  What are the 5 questions that you **must** include in the itnerview process ?
 ## The Questions
