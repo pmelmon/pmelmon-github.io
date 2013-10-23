@@ -9,6 +9,6 @@ Ok, here is a subject I am passionate about, having gone thru the interview proc
 2. How many engineers on your current team have worked with you more than once in the past ?
 3. How many engineers have you hired in the past 12 months ? 24 months ?
 4. How many engineerings have you fired in the past 12 months ? 24 month ?
-5. What do you do for fun outside of work ?
+5. What do you do for fun outside of work ? (see the HBS study on this: [http://blogs.hbr.org/2009/01/the-interview-question-you-sho/](http://blogs.hbr.org/2009/01/the-interview-question-you-sho/)
 
 
